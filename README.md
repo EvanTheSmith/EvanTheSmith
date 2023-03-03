@@ -5,4 +5,4 @@ I appreciate you and the time you took to read this.
 
 - 📚 Learning now: Node.js, Express.js, MongoDB
 
-- 💻 Learned: JavaScript | React.js | Redux | Ruby on Rails | Sinatra | ActiveRecord | Git | SQlite | HTML | CSS
+- 💻 Learned: JavaScript | React.js | Redux | Ruby on Rails | Sinatra | ActiveRecord | HTML | CSS
